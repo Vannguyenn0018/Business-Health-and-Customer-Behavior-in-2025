@@ -119,6 +119,8 @@ Power BI measures were developed to support management-level analysis, including
 
 # 📊 Dashboard Overview
 
+![Thị trường](dashboard/Page_1.jpg)
+
 The project is organized around four analytical perspectives.
 
 ## 1. Business Performance & Revenue
@@ -141,6 +143,8 @@ Key views include:
 ---
 
 ## 2. Customer 360, Retention & RFM
+
+![Hiệu quả kinh doanh](dashboard/Page2.jpg)
 
 Provides a customer-level view of account activity, retention and value.
 
@@ -170,6 +174,7 @@ The segmentation is used to distinguish customer groups requiring different rela
 ---
 
 ## 3. Market Liquidity & Trading Activity
+
 
 Compares company-level trading activity with broader market conditions.
 
