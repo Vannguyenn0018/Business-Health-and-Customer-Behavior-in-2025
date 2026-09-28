@@ -40,14 +40,13 @@ The final Power BI solution helps management answer key questions such as:
 │   ├── Raw datasets
 │   └── Processed datasets
 │
-├── 📁 scripts/
-│   ├── Power Query / M-Code
-│   └── Data preparation scripts
-│
-├── 📁 dashboards/
+├── 📁 Report/
+│   ├── Report.pdf
+│  
+├── 📁 Power BI/
 │   └── Securities_BI_Dashboard.pbix
 │
-├── 📁 images/
+├── 📁 dashboard/
 │   └── Dashboard screenshots
 │
 └── README.md
