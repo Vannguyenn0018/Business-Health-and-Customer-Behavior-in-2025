@@ -144,7 +144,7 @@ Key views include:
 
 ## 2. Customer 360, Retention & RFM
 
-![Hiệu quả kinh doanh](dashboard/Page2.jpg)
+![Churn rate](dashboard/Page3.jpg)
 
 Provides a customer-level view of account activity, retention and value.
 
@@ -174,7 +174,7 @@ The segmentation is used to distinguish customer groups requiring different rela
 ---
 
 ## 3. Market Liquidity & Trading Activity
-
+![Hiệu quả kinh doanh](dashboard/Page2.jpg)
 
 Compares company-level trading activity with broader market conditions.
 
