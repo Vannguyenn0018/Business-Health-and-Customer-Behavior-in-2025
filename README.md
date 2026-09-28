@@ -1,4 +1,5 @@
 #📈 Business-Health-and-Customer-Behavior-in-2025
+
 Dự án phân tích dữ liệu về sức khoẻ tài chính và hành vi khách hàng của doanh nghiệp Chứng khoán 2025
 ---
 An end-to-end Business Intelligence project for a securities brokerage firm, transforming operational data into management insights across **business performance, customer retention, market liquidity, and margin activity**.
